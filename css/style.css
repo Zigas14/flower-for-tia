@@ -76,15 +76,15 @@ body{
     color: #111;
 }
 
-@media screen and (max-width:574px){
+@media screen and (max-width:575px){
     .greetings{
         display: block;
-        font-size: 3rem;
+        font-size: 110%;
         font-weight: 500;
         text-align: center;
     }
     .description{
-        font-size: 1rem;
+        font-size: 60%;
     }
     
     .button a{
